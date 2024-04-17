@@ -1,4 +1,4 @@
-import React from "../../../../../iHARP/iHARPFrontEnd/node_modules/@types/react/../../../iHARP/iHARPScratchReact/node_modules/@types/react";
+import React from "react";
 import L from "leaflet";
 import { FeatureGroup } from "react-leaflet";
 import { EditControl } from "react-leaflet-draw";
